@@ -1,0 +1,7 @@
+#!/bin/sh
+
+for i in *.cast; do
+
+	agg --renderer resvg --font-size 20 --theme eceff4,2e3440,3b4252,bf616a,a3be8c,ebcb8b,81a1c1,b48ead,88c0d0,eceff4 --no-loop $i $i.gif
+
+done
