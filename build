@@ -2,6 +2,6 @@
 
 for i in *.cast; do
 
-	agg --renderer resvg --font-size 20 --theme eceff4,2e3440,3b4252,bf616a,a3be8c,ebcb8b,81a1c1,b48ead,88c0d0,eceff4 --no-loop $i $i.gif
+	agg --renderer resvg --font-size 26 --theme f9f9f9,333333,fc375b,3ed7ac,3872c5,ed7262,f3af56,b48ead,88c0d0,eceff4 --no-loop $i $i.gif
 
 done
