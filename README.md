@@ -6,6 +6,8 @@ This repo contains the asciinema recordings and gifs used in the Divvi Up Gettin
 
 To rebuild the gifs run `./build`
 
+The color scheme for the terminal is based on the colors taken from the Divvi Up presentation colors.
+
 **Recording**
 
 To record a demo run `./rec NAME`
