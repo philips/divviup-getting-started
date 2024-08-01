@@ -1,6 +1,7 @@
 ## Divvi Up Getting Started Assets
 
 Read the post go here: https://divviup.org/blog/command-line-intro/
+
 Watch the video here: https://www.youtube.com/watch?v=z54EnRiSrtI
 
 This repo contains the asciinema recordings and gifs used in the Divvi Up Getting Started demo.
