@@ -1,4 +1,4 @@
-Intro: Welcome to Divvi Up. Divvi Up helps organizations gather a summary of user statistics without knowing the exact value of any one users submission. It has been integrated into a variety of web applications, mobile apps, and machine learning apps. 
+Intro: Divvi Up helps organizations aggregate telemetric data without learning the exact value of any one user's submission. We call it a Privacy Preserving Telemetry Service. And it has been integrated into a variety of web, mobile, and machine learning applications. 
 
 Requirements: The next 5 minutes will focus on using the divviup command line tool and docker compose to create a full working Divvi Up environment to test and explore.     Visit docs.divviup.org for details on how to setup and configure your desktop OS to recreate this demo for yourself.
 
